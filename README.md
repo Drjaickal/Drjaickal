@@ -1,4 +1,6 @@
-(https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![logo](https://github.com/Drjaickal/Drjaickal/assets/105309360/00554840-b22b-44bc-b651-9d981c443f2f)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 <h1 align="center">Hi 👋, I'm Avijit Acharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
